@@ -20,6 +20,6 @@ Npm Account: Soon...  <br/>
 Discord Account: whoist4ha#0001 <br/>
 </h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,javascript,typescript,react,html,css,figma,graphql,nodejs,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cplus,javascript,typescript,react,html,css,nodejs,vscode,discord&theme=dark" />
 <br/>
 <br/>
