@@ -3,9 +3,6 @@
 
 <a href="https://discord.com/users/797108592905551943">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
-</a>
-<a href="https://discord.com/users/797108592905551943"><img alt="Discord" src="https://img.shields.io/badge/roxza%230002-7289DA?style=flat&logo=discord&logoColor=white"/>
-</a>
 <a  href="mailto:whoist4ha@gmail.com"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
