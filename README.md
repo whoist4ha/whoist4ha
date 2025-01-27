@@ -16,10 +16,10 @@
 <h3>
 Portfolio: https://whoist4ha.xyz/ <br/>
 How to reach me: mail@whoist4ha.xyz & whoist4ha@gmail.com <br/>
-<img src="https://skillicons.dev/icons?i=npm" /> Account: Soon...  <br/>
+NPM Account: Soon...  <br/>
 Discord Account: whoist4ha#0001 <br/>
 </h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,react,html,css,nodejs,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,npm,html,css,nodejs,vscode,discord&theme=dark" />
 <br/>
 <br/>
