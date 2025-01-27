@@ -14,10 +14,10 @@
 </a>
 <h4>I am a backend developer.</b></h4>
 <h3>
-👨‍💻 Portfolio: https://roxza.me <br/>
-📫 How to reach me: hello@roxza.me <br/>
-🧬 Npm Account: https://npmjs.com/~roxza  <br/>
-🪶 Discord Account: Roxza#0002 <br/>
+Portfolio: https://whoist4ha.xyz/ <br/>
+How to reach me: mail@whoist4ha.xyz & whoist4ha@gmail.com <br/>
+Npm Account: Soon...  <br/>
+Discord Account: whoist4ha#0001 <br/>
 </h3>
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,javascript,typescript,react,html,css,figma,graphql,nodejs,vscode,discord&theme=dark" />
