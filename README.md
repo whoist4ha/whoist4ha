@@ -16,7 +16,7 @@
 <h3>
 Portfolio: https://whoist4ha.xyz/ <br/>
 How to reach me: mail@whoist4ha.xyz & whoist4ha@gmail.com <br/>
-https://skillicons.dev/icons?i=npm Account: Soon...  <br/>
+<img src="https://skillicons.dev/icons?i=npm" /> Account: Soon...  <br/>
 Discord Account: whoist4ha#0001 <br/>
 </h3>
 <br/>
