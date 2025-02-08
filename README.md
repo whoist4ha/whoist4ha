@@ -24,7 +24,7 @@ NPM Account: Soon...  <br/>
 Discord Account: whoist4ha#0001 <br/>
 
 <a href="https://guns.lol/whoist4ha">
-ABOUT ME
+guns.lol
 </a>
 
 </h3>
