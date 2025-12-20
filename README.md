@@ -16,12 +16,10 @@
  <a href="https://whoist4ha.xyz/">
 <img src="https://komarev.com/ghpvc/?username=whoist4ha"/>
 </a>
-<h4>I am a backend developer.</b></h4>
-<h3>
-Portfolio: https://whoist4ha.xyz/ <br/>
-How to reach me: mail@whoist4ha.xyz & whoist4ha@gmail.com <br/>
-NPM Account: Soon...  <br/>
-Discord Account: whoist4ha#0001 <br/>
+<h4>psv02.</b></h4>
+<h3> <br/>
+How to reach me: whoist4ha@gmail.com <br/>
+Discord Account: @whoist4ha <br/>
 
 <a href="https://guns.lol/whoist4ha">
 guns.lol
