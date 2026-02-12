@@ -27,6 +27,6 @@ guns.lol
 
 </h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cs,lua,javascript,npm,html,css,nodejs,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,java,javascript,npm,html,css,nodejs,vscode,discord&theme=dark" />
 <br/>
 <br/>
